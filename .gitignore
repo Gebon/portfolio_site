@@ -2,3 +2,4 @@ images/*
 jquery*
 prefixfree*
 *old.*
+*.scss
