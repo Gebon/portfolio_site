@@ -3,4 +3,4 @@ jquery*
 prefixfree*
 *old.*
 *.scss
-*cache*/
+css/.sass-cache/
